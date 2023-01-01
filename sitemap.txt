@@ -1,8 +1,8 @@
-https://xiangrongonline.netlify.app/2022/12/20/Web-Online-shopping-mall/
-https://xiangrongonline.netlify.app/about/index.html
-https://xiangrongonline.netlify.app/categories/index.html
-https://xiangrongonline.netlify.app/tags/index.html
-https://xiangrongonline.netlify.app/
-https://xiangrongonline.netlify.app/tags/web/
-https://xiangrongonline.netlify.app/tags/curriculum-design/
-https://xiangrongonline.netlify.app/categories/Learn/
+https://xiangrongonline.github.io/2022/12/20/Web-Online-shopping-mall/
+https://xiangrongonline.github.io/about/index.html
+https://xiangrongonline.github.io/categories/index.html
+https://xiangrongonline.github.io/tags/index.html
+https://xiangrongonline.github.io/
+https://xiangrongonline.github.io/tags/web/
+https://xiangrongonline.github.io/tags/curriculum-design/
+https://xiangrongonline.github.io/categories/Learn/
